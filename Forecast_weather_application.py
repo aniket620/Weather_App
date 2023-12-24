@@ -18,8 +18,8 @@ from geopy.geocoders import Nominatim
 geolocator = Nominatim(user_agent="Weather Forecast App")
 
 # Settings for the OpenWeatherMap API and Folium map
-open_weather_map_API_key = "8d4e8f807af8f877a9b46931b17a21cc"
-open_weather_API_endpoint = "http://api.openweathermap.org/" 
+open_weather_map_API_key = "###########################"
+open_weather_API_endpoint = "#########################" 
 
 # Initialized HTTPlib for HTTP requests
 http_initializer = httplib2.Http()
