@@ -1,7 +1,10 @@
 # Weather_App
-Created a weather application to track weather of four cities using multithreading and MongoDB.Get API access key by subscribing to OpenWeatherMap website
-Make a multi-threaded program to connect to API.One thread to download 5 days/3 hour forecast
-One thread to download weather maps.One thread to open the latest weather map and display the map in window (should show last image as per last time stamp)
-Forecast threads should print out alerts if there is rain/snow or freeezing temperatures (<2 degree Fahrenheit) in any of forecast period
-Display forecast/previous data from database as a graph.
+
+
+Overview
+
+Developed a weather application that monitors the weather conditions for four cities by utilizing multithreading and MongoDB. Obtained API access key by subscribing to the OpenWeatherMap website. Implemented a multi-threaded program with distinct threads for various tasks. One thread is responsible for downloading the 5-day/3-hour forecast, another thread for retrieving weather maps, and a third thread for opening and displaying the latest weather map in a window, showcasing the most recent image based on the timestamp.
+
+The forecast threads are designed to issue alerts in case of rain, snow, or freezing temperatures (<2 degrees Fahrenheit) during any forecast period. Additionally, the program displays forecast and historical data from the database in a graphical format.
+
 
