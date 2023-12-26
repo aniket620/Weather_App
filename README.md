@@ -7,4 +7,6 @@ Developed a weather application that monitors the weather conditions for four ci
 
 The forecast threads are designed to issue alerts in case of rain, snow, or freezing temperatures (<2 degrees Fahrenheit) during any forecast period. Additionally, the program displays forecast and historical data from the database in a graphical format.
 
+You can watch a quick demo of the project right here https://www.youtube.com/watch?v=YxqEnoZ1Gtw
+
 
